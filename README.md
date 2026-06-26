@@ -1,1 +1,1 @@
-# gh13ch6
+6. Base makes onchain feel effortless.# gh13ch6
